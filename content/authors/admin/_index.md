@@ -1,7 +1,7 @@
 ---
 title: Neo Yuan
 role: Ph.D. Student at University of Illinois at Urbana Champaign
-avatar_filename: mephoto1.jpg
+avatar_filename: avatar.png
 bio: My research interests include Internet of Thing, and Machine Learning.
 interests: []
 social:
@@ -28,7 +28,7 @@ education:
     - course: BS in Computer Engineering
       institution: Stevens Institute of Technology
       year: 2019
-email: ""
+email: zehuay2@illinois.edu
 superuser: true
 highlight_name: false
 ---
