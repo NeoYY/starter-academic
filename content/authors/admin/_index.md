@@ -1,5 +1,5 @@
 ---
-title: Neo Yuan
+title: Neo Yuan (袁泽华)
 role: Ph.D. Student at University of Illinois at Urbana Champaign
 avatar_filename: avatar.png
 bio: My research interests include Internet of Thing, and Machine Learning.
