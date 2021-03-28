@@ -1,7 +1,7 @@
 ---
 title: Neo Yuan
 role: Ph.D. Student at University of Illinois at Urbana Champaign
-avatar_filename: meinmountain.jpg
+avatar_filename: mephoto1.jpg
 bio: My research interests include Internet of Thing, and Machine Learning.
 interests: []
 social:
