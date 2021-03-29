@@ -1,6 +1,6 @@
 ---
 title: Neo Yuan (袁泽华)
-role: "Ph.D. Student "
+role: Ph.D. Student in Electrical and Computer Engineering
 avatar_filename: avatar.png
 bio: My research interests include Internet of Thing, and Machine Learning.
 interests: []
