@@ -24,7 +24,7 @@ education:
       year: 2026
     - course: MEng in Electrical and Computer Engineering
       institution: Cornell University
-      year: 2019
+      year: 2020
     - course: BS in Computer Engineering
       institution: Stevens Institute of Technology
       year: 2019
