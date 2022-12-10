@@ -2,7 +2,8 @@
 title: Neo Yuan (袁泽华)
 role: Ph.D. Student in Electrical and Computer Engineering
 avatar_filename: avatar.png
-bio: My research interests include Internet of Thing, and Machine Learning.
+bio: My research interest is the Internet of Thing.
+<!-- bio: My research interests include Internet of Thing, and Machine Learning. -->
 interests: []
 social:
   - icon: envelope
@@ -32,4 +33,5 @@ email: zehuay2@illinois.edu
 superuser: true
 highlight_name: false
 ---
-Neo Yuan is a Ph.D. student at the UIUC ESCAD Lab. His research interests include Internet of Things, and Machine Learning. He works in the group of Professor Deming Chen, which develops smart home solution and machine learning related hardware solution.
+<!-- bio: Neo Yuan is a Ph.D. student at the UIUC ESCAD Lab. His research interests include Internet of Things, and Machine Learning. He works in the group of Professor Deming Chen, which develops smart home solution and machine learning related hardware solution. -->
+Neo Yuan is a Ph.D. student at the UIUC ESCAD Lab. His research interest is the Internet of Things. He works in the group of Professor Deming Chen, which develops a customizable smart home solution.
